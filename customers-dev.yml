@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 customers:
-  message: "Welcome to EazyBank cards related development APIs "
+  message: "Welcome to EazyBank cards related development rabbit APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
