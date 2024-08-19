@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-customers:
+orders:
   message: "Welcome to Ecommerce orders related development dev APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
