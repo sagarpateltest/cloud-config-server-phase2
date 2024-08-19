@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Ecommerce orders related docker APIs default"
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@eazybank.com"
+    email: "john@ecommerce.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
