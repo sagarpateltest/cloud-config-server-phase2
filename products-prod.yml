@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+products:
   message: "Hey, welcome to ecommerce products related prod APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
