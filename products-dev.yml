@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related development dev docker APIs "
+  message: "Welcome to ecommerce  accounts related products dev docker APIs "
   contactDetails:
     name: "John Doe - Developer1"
-    email: "john@eazybank.com"
+    email: "john@ecommerce.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
