@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+orders:
   message: "Welcome to Ecommerce orders related docker APIs default"
   contactDetails:
     name: "John Doe - Developer"
