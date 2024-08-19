@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+products:
   message: "Welcome to ecommerce accounts related products dev docker APIs"
   contactDetails:
     name: "John Doe - Developer1"
