@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 customers:
-  message: "Welcome to EazyBank cards related development dev APIs "
+  message: "Welcome to Ecommerce orders related development dev APIs "
   contactDetails:
     name: "Dragos Lech - Developer"
-    email: "dragos@eazybank.com"
+    email: "dragos@ecommerce.com"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
