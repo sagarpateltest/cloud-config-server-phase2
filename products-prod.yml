@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 products:
-  message: "Hey, welcome to ecommerce products related prod APIs"
+  message: "Hey, welcome to ecommerce products related prod APIs11"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}f6e42b9bfa9d06f664f618e31dc2ee4e17edbd527eacdbebdf432fcedea14118d5628fdda94cc55ed50f70733c72f506"
